@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @SummerNugget
-- 👀 I’m interested in the C programming language
-- 🌱 I’m currently learning the C programming language
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me (ps: you can't!)
-
+Hi, I'm SummerNugget. I'm most known by TimeSquared on most places. I am a high school student, and I enjoy doing a bunch of random hobbies and stuff that interests me. I'm currently learning the C programming language, and I've coded in **Java/C/C++/HTML/CSS/Python** before, but I'm mainly coding in Java nowadays. You can contact me by sending me a DM on Discord, where my Discord handle is TimeSquared#9292. I am usually very active on Discord, and I will usually look at any DM requests I get, so feel free to ask me about anything I make. This GitHub profile is mainly for sharing the stuff I do and currently working on, and I aprreciate any contributions to any of my projects, new or old. My code is always going to be free and open source, and all of the stuff here on my GitHub profile is licensed under the MIT License. Feel free to use, change, or even distribute my code as long as you provide credit for my work.
 <!---
 SummerNugget/SummerNugget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
