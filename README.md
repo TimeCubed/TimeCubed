@@ -8,6 +8,8 @@ at what you're saying very quickly (but please do introduce yourself, tell me yo
 anything goes).
 
 Anyways, thanks for checking out my Github I guess?
+
+- Sincerely, walter square * 6 (some certain cuphead looking discord person would get this)
 <!---
 SummerNugget/SummerNugget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
