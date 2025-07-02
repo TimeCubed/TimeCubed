@@ -1,4 +1,4 @@
-hiya, I'm TimeCubed. I'm usually known as TimeSquared on most places, but the username TimeSquared is taken by someone else. also, I'm trans (she/her)!
+hiya, I'm TimeCubed. I'm usually known as TimeSquared on most places, but the username TimeSquared is taken by someone else.
 I stopped programming for a while, but I've slowly started to get back into the hobby. most of my projects are open source and licensed under the MIT
 license, so you can use my code in your projects freely (though, I doubt anyone would use my code. hell, I doubt I'd use my own code..). most of my
 repos here are for my minecraft mods which I used to make, but you'll also find some other stuff too that you can maybe mess around with if you want.
