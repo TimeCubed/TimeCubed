@@ -1,3 +1,6 @@
+![](https://github-readme-stats.vercel.app/api?username=timecubed&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=timecubed&theme=nightowl&hide_border=false)
+
 hiya, I'm TimeCubed. I'm usually known as TimeSquared on most places, but the username TimeSquared is taken by someone else.
 I stopped programming for a while, but I've slowly started to get back into the hobby. most of my projects are open source and licensed under the MIT
 license, so you can use my code in your projects freely (though, I doubt anyone would use my code. hell, I doubt I'd use my own code..). most of my
